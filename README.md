@@ -1,4 +1,5 @@
-News App
+#News App
+
 Introduction
 This News App is built using React Native and Expo, leveraging the managed workflow to streamline development. The app includes various screens such as Login, Register, Home, News, and User Details screens. The initial version is designed with a focus on reusability, scalability, and ease of maintenance.
 
